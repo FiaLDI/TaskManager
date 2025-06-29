@@ -47,6 +47,10 @@ launch dev: npm run dev
 launch build: npm run build
 launch linter: npm run lint
 ```
+## Add Task Interface
+![alt text](add.png)
+## Show Task Interface
+![alt text](read.png)
 # Backend
 ### Stack: Express.js, Typescript
 
